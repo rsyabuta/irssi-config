@@ -1,0 +1,1 @@
+/Users/ryany/.irssi/scripts/awl.pl
